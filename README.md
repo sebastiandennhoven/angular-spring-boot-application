@@ -2,6 +2,7 @@
 
 ## Angular Front-end
     For detailed descriptions for installation please view **Read.me** in angular-frontend folder
+    [Front-end Link](https://github.com/sebastiandennhoven/angular-users-overview-frontend)
     Inital info:
     - `npm i` to install all packages
     > `npm start` to run frontend
