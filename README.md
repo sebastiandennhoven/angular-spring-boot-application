@@ -1,4 +1,4 @@
-# angular-spring-boot-application
+# Users-spring-boot-application
 
 ## Angular Front-end
     For detailed descriptions for installation please view **Read.me** in angular-frontend folder
